@@ -180,3 +180,8 @@ This project demonstrates a complete understanding of big data analysis applicat
 2. Data privacy compliance
 3. Converting data insights into actionable branding/marketing strategies
 4. Practical implementation in Uzbekistan market
+
+
+## Links to presentations
+https://docs.google.com/presentation/d/1XxlSNloY0FO7_4apcp9jCAjmruJy-paBfNDLOVpVGH0/edit?usp=sharing
+https://docs.google.com/presentation/d/1BpJku5-Y8NEHPfemi0SwuVaGUYb2oe3PnSvy397MHs8/edit?usp=sharing
