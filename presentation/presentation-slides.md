@@ -10,9 +10,6 @@
 ### **StudyHub Café: Data-Driven Study Revolution in Tashkent**
 *Leveraging Big Data Analysis for Strategic Branding and Marketing*
 
-**Presenter**: [Your Name]  
-**Degree Program**: [Your Program] - Data Analytics Specialization  
-**Date**: [Presentation Date]
 
 **Key Visual Elements**:
 - Modern café interior with study spaces
