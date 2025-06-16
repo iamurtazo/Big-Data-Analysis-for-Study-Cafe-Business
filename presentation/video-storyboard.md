@@ -13,7 +13,7 @@
 ```
 VISUAL: Professional headshot + educational background infographic
 NARRATION: 
-"Hello, I'm [Your Name], currently pursuing [Your Degree] with a specialization in data analytics and business intelligence. My educational background includes [specific courses/projects in data science], and I have hands-on experience with Python, machine learning, and business analytics tools like Tableau and SQL.
+"Hello, I'm Murtazo Toshniyozov, currently pursuing Bachelor's Degree with a specialization in data analytics and business intelligence. My educational background includes big data analysis and data analytics projects, and I have hands-on experience with Python, Pandas, Matplotlib and business analytics tools like Tableau and SQL.
 
 Today I'll present how I plan to leverage big data analysis to launch and scale StudyHub Café, a revolutionary study café concept in Tashkent, Uzbekistan."
 ```
